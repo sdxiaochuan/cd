@@ -4,3 +4,29 @@ www.zillow.com/home-values/
 
 http://www2.dre.ca.gov/PublicASP/pplinfo.asp?License_id=01869393
 http://www2.dre.ca.gov/publicasp/pplinfo.asp?License_id=01903661
+
+
+友好的打印格式， 
+
+可以支持PC/Mobile/PAD
+
+PC的入口是输入房屋地址
+
+Mobile/PAD的入口是当前地址，也可以输入房屋地址查询
+
+只能查询固定的/特定的地址，×××不能基于地图浏览×××
+
+可以查询的项有： 学区名称，学校名称，小学/初中/高中分数，房屋/condo/apt均价，距离华人超市有多远的距离内
+
+需要保存的数据有：城市->县->州->邮编->学校 的对应关系， 城市/邮编/学校/社区的边界 并提前算出交叉的区域的信息
+
+需要列出每项数据的来源（手写），并验证能否抓取
+
+验证city-data获取的信息的途径和可行性
+
+设计友好的界面
+
+设计前台展示/宣传页面
+
+设计用户注册/登录系统，用agent的licence登录，并验证lic号码的有效性
+
